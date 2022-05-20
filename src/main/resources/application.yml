@@ -6,8 +6,8 @@ server:
 spring:
   datasource:
     username: root
-    password: pass123
-    url: jdbc:mysql://localhost:3306/sharedpro
+    password: #yourPassword
+    url: jdbc:mysql://localhost:3306/sharedpro #databaseName
 
 
   jpa:
